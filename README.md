@@ -25,4 +25,7 @@ Statistical Testing
 
 Provided structured roadmap recommendations based on customer sentiment and feature importance, enabling data-backed product decisions.
 
+<img width="999" height="715" alt="Screenshot 2026-03-01 191459" src="https://github.com/user-attachments/assets/e76fedf9-6f02-4f25-944f-47e5584a9ad5" />
+<img width="1235" height="665" alt="Screenshot 2026-03-01 191742" src="https://github.com/user-attachments/assets/28508b57-1dca-430d-ab27-f3a7ce84222d" />
+
 
