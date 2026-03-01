@@ -1,4 +1,4 @@
-Product Sentiment Analysis & Feature Prioritization
+<img width="873" height="694" alt="Screenshot 2026-03-01 191044" src="https://github.com/user-attachments/assets/1f7e636e-6009-4b6d-a3da-e09cb8964e5c" />Product Sentiment Analysis & Feature Prioritization
 
 📌 Business Problem
 Customer reviews contained valuable insights but were unstructured and difficult to analyze at scale. The objective was to identify key product pain points and prioritize improvements using data-driven methodology.
@@ -24,3 +24,5 @@ Statistical Testing
 📈 Business Impact
 
 Provided structured roadmap recommendations based on customer sentiment and feature importance, enabling data-backed product decisions.
+
+
