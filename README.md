@@ -29,5 +29,8 @@ Provided structured roadmap recommendations based on customer sentiment and feat
 
 <img width="999" height="715" alt="Screenshot 2026-03-01 191459" src="https://github.com/user-attachments/assets/e76fedf9-6f02-4f25-944f-47e5584a9ad5" />
 <img width="1235" height="665" alt="Screenshot 2026-03-01 191742" src="https://github.com/user-attachments/assets/28508b57-1dca-430d-ab27-f3a7ce84222d" />
+<img width="1352" height="814" alt="Screenshot 2026-03-01 192340" src="https://github.com/user-attachments/assets/12976cbf-fb4a-4f8b-b918-dd2f117ffe37" />
+<img width="1333" height="807" alt="Screenshot 2026-03-01 192441" src="https://github.com/user-attachments/assets/2bf53399-5fc3-44e2-b60a-47ae0252ffdb" />
+
 
 
