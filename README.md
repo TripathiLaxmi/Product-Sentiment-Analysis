@@ -1,26 +1,22 @@
-Objective
+Product Sentiment Analysis & Feature Prioritization
+📌 Business Problem
+Customer reviews contained valuable insights but were unstructured and difficult to analyze at scale. The objective was to identify key product pain points and prioritize improvements using data-driven methodology.
 
-To analyze customer reviews and identify key product improvement areas using NLP and data-driven prioritization.
+🔍 Solution Approach
+• Cleaned and preprocessed large review dataset using Python
+• Performed Sentiment Analysis using NLP techniques
+• Applied TF-IDF for feature extraction
+• Conducted feature-level sentiment scoring
+• Used RICE framework (Reach, Impact, Confidence, Effort) for prioritization
+• Designed A/B testing framework to validate proposed improvements
 
-Tools & Technologies
+🛠 Tech Stack
+Python (Pandas, NLTK)
+SQL
+Power BI
+Excel
+TF-IDF
+Statistical Testing
 
-Python (Pandas, NLTK), SQL, Power BI, Excel, TF-IDF, RICE Framework, A/B Testing Design
-
- Key Highlights
-
-Processed large review dataset
-
-Performed sentiment classification
-
-Applied TF-IDF for feature extraction
-
-Conducted feature-level sentiment analysis
-
-Designed RICE-based prioritization model
-
-Proposed A/B testing strategy
-
- Outcome
-
-Delivered actionable business insights to support product roadmap decisions.
-
+📈 Business Impact
+Provided structured roadmap recommendations based on customer sentiment and feature importance, enabling data-backed product decisions.
