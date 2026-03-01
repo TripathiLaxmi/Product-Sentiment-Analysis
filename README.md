@@ -4,19 +4,7 @@ To analyze customer reviews and identify key product improvement areas using NLP
 
 Tools & Technologies
 
-Python (Pandas, NLTK)
-
-SQL
-
-Power BI
-
-Excel
-
-TF-IDF
-
-RICE Framework
-
-A/B Testing Design
+Python (Pandas, NLTK), SQL, Power BI, Excel, TF-IDF, RICE Framework, A/B Testing Design
 
  Key Highlights
 
